@@ -1,9 +1,8 @@
-# web-1
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>SUNGMI KIM</title>
+    
   </head>
   <body>
     <h1>Hi Im Sungmi 안녕</h1>
